@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/okeyrollas101/alx-intermediate-frontend#readme",
   "devDependencies": {
-    "tailwindcss": "^4.1.11"
+    "tailwindcss": "^3.4.17"
   }
 }
