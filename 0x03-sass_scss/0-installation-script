@@ -1,0 +1,3 @@
+# Steps to install SASS/SCSS
+
+To install SASS/SCSS i initially ran "npm install sass -v 3.7.4" but i noticed that after i did that i couldn't run the sass command in my terminal. So i sort another way to install SASS/SCSS by running "npm install -g sass", which was successfully and enabled me run the sass commands effectively.
